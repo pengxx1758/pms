@@ -1,21 +1,23 @@
 # pms
-���裬С����ҵ����ϵͳ
+毕设，小区物业管理系统
 
 
-ǰ��vue���+ELementUI  
+前端vue框架+ELementUI  
 
-���express���ʵ�ּ򵥽ӿ�
+后端express框架实现简单接口  
+
+数据库使用mysql，sql文件在pms-server目录下
 
 
-* ����pms-vue:
+* 进入pms-vue:
   
 > npm install  
   
-> npm run dev ��������  
+> npm run dev 开启服务  
 
 
-* ����pms-server
+* 进入pms-server
   
 > npm install  
   
-> npm start �������������޸���Ҫ����������  
+> npm start 开启服务（做了修改需要重启开启）  
